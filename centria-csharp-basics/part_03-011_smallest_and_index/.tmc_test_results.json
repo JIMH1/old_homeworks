@@ -1,0 +1,29 @@
+[
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestExerciseContainsNumbersSingle",
+    "Message": "",
+    "Points": [
+      "3-11"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestExerciseContainsNumbersOnce",
+    "Message": "",
+    "Points": [
+      "3-11"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestExerciseContainsNumbersTwice",
+    "Message": "",
+    "Points": [
+      "3-11"
+    ],
+    "ErrorStackTrace": []
+  }
+]

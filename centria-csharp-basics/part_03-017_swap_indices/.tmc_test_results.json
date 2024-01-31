@@ -1,0 +1,25 @@
+[
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestSwappingOnce",
+    "Message": "",
+    "Points": [
+      "3-17"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestNoSwapping",
+    "Message": "",
+    "Points": [],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestSwappingTwice",
+    "Message": "",
+    "Points": [],
+    "ErrorStackTrace": []
+  }
+]

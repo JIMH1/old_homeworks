@@ -1,0 +1,38 @@
+[
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestBig2",
+    "Message": "",
+    "Points": [
+      "4-12"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestExample",
+    "Message": "",
+    "Points": [
+      "4-12"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestExample2",
+    "Message": "",
+    "Points": [
+      "4-12"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestBig",
+    "Message": "",
+    "Points": [
+      "4-12"
+    ],
+    "ErrorStackTrace": []
+  }
+]

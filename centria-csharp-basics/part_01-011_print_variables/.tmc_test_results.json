@@ -1,0 +1,11 @@
+[
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestPrintVariables",
+    "Message": "",
+    "Points": [
+      "1-11"
+    ],
+    "ErrorStackTrace": []
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "Passed": true,
+    "Name": "Exercise008Test.ProgramTest.AddShouldAdd",
+    "Message": "",
+    "Points": [
+      "8-8"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise008Test.ProgramTest.FinnishShouldWork",
+    "Message": "",
+    "Points": [
+      "8-8"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise008Test.ProgramTest.ExampleShouldWork",
+    "Message": "",
+    "Points": [
+      "8-8"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise008Test.ProgramTest.TranslateShouldReturnAnEmptyList",
+    "Message": "",
+    "Points": [
+      "8-8"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise008Test.ProgramTest.RemoveShouldRemoveTheTranslations",
+    "Message": "",
+    "Points": [
+      "8-8"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise008Test.ProgramTest.ArbitaryTranslationShouldWork",
+    "Message": "",
+    "Points": [
+      "8-8"
+    ],
+    "ErrorStackTrace": []
+  }
+]

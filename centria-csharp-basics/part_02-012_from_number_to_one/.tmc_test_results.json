@@ -1,0 +1,20 @@
+[
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestPrintsFourNumbers",
+    "Message": "",
+    "Points": [
+      "2-12"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestWhenZero",
+    "Message": "",
+    "Points": [
+      "2-12"
+    ],
+    "ErrorStackTrace": []
+  }
+]

@@ -1,0 +1,11 @@
+[
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestGivenIntegerIsPrinted",
+    "Message": "",
+    "Points": [
+      "1-12"
+    ],
+    "ErrorStackTrace": []
+  }
+]

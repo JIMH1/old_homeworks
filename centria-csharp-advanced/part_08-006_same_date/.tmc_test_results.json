@@ -1,0 +1,65 @@
+[
+  {
+    "Passed": true,
+    "Name": "Exercise006Test.ProgramTest.TestHashCodeSameObject",
+    "Message": "",
+    "Points": [
+      "8-6"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise006Test.ProgramTest.TestHashCodeDifferentObjectSameDate",
+    "Message": "",
+    "Points": [
+      "8-6"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise006Test.ProgramTest.TestEqualsSameDate",
+    "Message": "",
+    "Points": [
+      "8-6"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise006Test.ProgramTest.TestEqualsCopySameDate",
+    "Message": "",
+    "Points": [
+      "8-6"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise006Test.ProgramTest.TestEqualsString",
+    "Message": "",
+    "Points": [
+      "8-6"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise006Test.ProgramTest.TestHashCodeDifferentObjectDifferentDate",
+    "Message": "",
+    "Points": [
+      "8-6"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise006Test.ProgramTest.TestDoesNotEqualDifferentDate",
+    "Message": "",
+    "Points": [
+      "8-6"
+    ],
+    "ErrorStackTrace": []
+  }
+]

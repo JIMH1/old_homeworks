@@ -1,0 +1,47 @@
+[
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestEvenAndOdd",
+    "Message": "",
+    "Points": [
+      "2-8.5"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestNumberOfNumbers",
+    "Message": "",
+    "Points": [
+      "2-8.3"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestAverage",
+    "Message": "",
+    "Points": [
+      "2-8.4"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestSumOfNumbers",
+    "Message": "",
+    "Points": [
+      "2-8.2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestReadingNumbers",
+    "Message": "",
+    "Points": [
+      "2-8.1"
+    ],
+    "ErrorStackTrace": []
+  }
+]

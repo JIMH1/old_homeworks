@@ -1,0 +1,29 @@
+[
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestNegativeReturnsAbsoluteValue",
+    "Message": "",
+    "Points": [
+      "2-3"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestZeroReturnsItself",
+    "Message": "",
+    "Points": [
+      "2-3"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestPositiveReturnsItself",
+    "Message": "",
+    "Points": [
+      "2-3"
+    ],
+    "ErrorStackTrace": []
+  }
+]

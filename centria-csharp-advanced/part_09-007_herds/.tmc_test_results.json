@@ -1,0 +1,56 @@
+[
+  {
+    "Passed": true,
+    "Name": "Exercise007Test.ProgramTest.OrganismExampleShouldWork",
+    "Message": "",
+    "Points": [
+      "9-7.1"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise007Test.ProgramTest.ModifiedHerdExampleShouldWork",
+    "Message": "",
+    "Points": [
+      "9-7.2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise007Test.ProgramTest.ModifiedFirstExampleShouldWork",
+    "Message": "",
+    "Points": [
+      "9-7.1"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise007Test.ProgramTest.HerdExampleShouldWork",
+    "Message": "",
+    "Points": [
+      "9-7.2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise007Test.ProgramTest.MovingHerdExampleShouldWork",
+    "Message": "",
+    "Points": [
+      "9-7.2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise007Test.ProgramTest.MovingHerdMoreShouldWork",
+    "Message": "",
+    "Points": [
+      "9-7.2"
+    ],
+    "ErrorStackTrace": []
+  }
+]

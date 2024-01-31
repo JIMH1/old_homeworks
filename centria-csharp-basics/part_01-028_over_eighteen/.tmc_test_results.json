@@ -1,0 +1,20 @@
+[
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestUnderAge",
+    "Message": "",
+    "Points": [
+      "1-28"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestAdult",
+    "Message": "",
+    "Points": [
+      "1-28"
+    ],
+    "ErrorStackTrace": []
+  }
+]

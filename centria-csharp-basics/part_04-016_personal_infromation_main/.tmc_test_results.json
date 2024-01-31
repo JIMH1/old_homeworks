@@ -1,0 +1,38 @@
+[
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestSinglePersonWorks",
+    "Message": "",
+    "Points": [
+      "4-16"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestAddingToListWorks",
+    "Message": "",
+    "Points": [
+      "4-16"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestAddingToListWorksMore",
+    "Message": "",
+    "Points": [
+      "4-16"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestMainContainsThreeReadLines",
+    "Message": "",
+    "Points": [
+      "4-16"
+    ],
+    "ErrorStackTrace": []
+  }
+]

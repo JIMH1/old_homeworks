@@ -1,0 +1,38 @@
+[
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestExamplePrintProduct",
+    "Message": "",
+    "Points": [
+      "4-6"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestRandomPriceAndAmount",
+    "Message": "",
+    "Points": [
+      "4-6"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestProductCreation",
+    "Message": "",
+    "Points": [
+      "4-6"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestManyKiwis",
+    "Message": "",
+    "Points": [
+      "4-6"
+    ],
+    "ErrorStackTrace": []
+  }
+]

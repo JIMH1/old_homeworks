@@ -1,0 +1,47 @@
+[
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestPersonNameMagicCount",
+    "Message": "",
+    "Points": [
+      "6-4"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestMMMNameCount",
+    "Message": "",
+    "Points": [
+      "6-4"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestPersonNameCount",
+    "Message": "",
+    "Points": [
+      "6-4"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestSingleLetterNameCount",
+    "Message": "",
+    "Points": [
+      "6-4"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestLowercaseNameCount",
+    "Message": "",
+    "Points": [
+      "6-4"
+    ],
+    "ErrorStackTrace": []
+  }
+]

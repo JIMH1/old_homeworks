@@ -1,0 +1,18 @@
+[
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestSumOfThreeIntegers",
+    "Message": "",
+    "Points": [
+      "1-18"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestSumZero",
+    "Message": "",
+    "Points": [],
+    "ErrorStackTrace": []
+  }
+]

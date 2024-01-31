@@ -1,0 +1,41 @@
+[
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestExerciseMethodCallPrintStars",
+    "Message": "",
+    "Points": [
+      "2-20.1"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestExerciseMethodCallPrintTriangle",
+    "Message": "",
+    "Points": [
+      "2-20.1",
+      "2-20.4"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestExerciseMethodCallPrintSquare",
+    "Message": "",
+    "Points": [
+      "2-20.1",
+      "2-20.2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestExerciseMethodCallPrintRectangle",
+    "Message": "",
+    "Points": [
+      "2-20.1",
+      "2-20.3"
+    ],
+    "ErrorStackTrace": []
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestReturnDouble",
+    "Message": "",
+    "Points": [
+      "1-21"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestReturnDouble2",
+    "Message": "",
+    "Points": [],
+    "ErrorStackTrace": []
+  }
+]

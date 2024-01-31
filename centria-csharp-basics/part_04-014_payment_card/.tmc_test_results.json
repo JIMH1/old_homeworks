@@ -1,0 +1,110 @@
+[
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestDrinkCoffee",
+    "Message": "",
+    "Points": [
+      "4-14.2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestAddTooMuchMoney",
+    "Message": "",
+    "Points": [
+      "4-14.4"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestEatLunch",
+    "Message": "",
+    "Points": [
+      "4-14.2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestAddNegativeMoney",
+    "Message": "",
+    "Points": [
+      "4-14.4"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestAddMoney",
+    "Message": "",
+    "Points": [
+      "4-14.4"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestToString",
+    "Message": "",
+    "Points": [
+      "4-14.1"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestDrinkCoffeeAndEatLunch",
+    "Message": "",
+    "Points": [
+      "4-14.2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestDrinkTooMuchCoffee",
+    "Message": "",
+    "Points": [
+      "4-14.3"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestToStringDouble",
+    "Message": "",
+    "Points": [
+      "4-14.1"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestToString42",
+    "Message": "",
+    "Points": [
+      "4-14.1"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestEatLunchNotEnoughMoney",
+    "Message": "",
+    "Points": [
+      "4-14.3"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestMultipleCards",
+    "Message": "",
+    "Points": [
+      "4-14.1"
+    ],
+    "ErrorStackTrace": []
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestInterest",
+    "Message": "",
+    "Points": [
+      "4-8"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestPrintBalance",
+    "Message": "",
+    "Points": [
+      "4-8"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestLongDebt",
+    "Message": "",
+    "Points": [
+      "4-8"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestPrintBalanceWithRandomInterest",
+    "Message": "",
+    "Points": [
+      "4-8"
+    ],
+    "ErrorStackTrace": []
+  }
+]

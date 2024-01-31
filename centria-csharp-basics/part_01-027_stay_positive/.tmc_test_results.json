@@ -1,0 +1,20 @@
+[
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestZero",
+    "Message": "",
+    "Points": [
+      "1-27"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestPositive",
+    "Message": "",
+    "Points": [
+      "1-27"
+    ],
+    "ErrorStackTrace": []
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "Passed": true,
+    "Name": "Exercise003Test.ProgramTest.TestPrintKeysWhereE",
+    "Message": "",
+    "Points": [
+      "8-3"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise003Test.ProgramTest.TestPrintKeysWhereI",
+    "Message": "",
+    "Points": [
+      "8-3"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise003Test.ProgramTest.TestPrintKeysWhereJ",
+    "Message": "",
+    "Points": [
+      "8-3"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise003Test.ProgramTest.TestPrintKeys",
+    "Message": "",
+    "Points": [
+      "8-3"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise003Test.ProgramTest.TestPrintKeysWhereDotE",
+    "Message": "",
+    "Points": [
+      "8-3"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise003Test.ProgramTest.TestPrintValuesWhereDotE",
+    "Message": "",
+    "Points": [
+      "8-3"
+    ],
+    "ErrorStackTrace": []
+  }
+]

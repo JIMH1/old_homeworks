@@ -1,0 +1,56 @@
+[
+  {
+    "Passed": true,
+    "Name": "Exercise002Test.ProgramTest.CountLinq",
+    "Message": "",
+    "Points": [
+      "12-2.2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise002Test.ProgramTest.CountCollections",
+    "Message": "",
+    "Points": [
+      "12-2.2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise002Test.ProgramTest.CountSingleWriteLineInMain",
+    "Message": "",
+    "Points": [
+      "12-2.2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise002Test.ProgramTest.CountRegexInMain",
+    "Message": "",
+    "Points": [
+      "12-2.1"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise002Test.ProgramTest.TestIncorrectPrintNotFound",
+    "Message": "",
+    "Points": [
+      "12-2.2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise002Test.ProgramTest.TestCorrectPrint",
+    "Message": "",
+    "Points": [
+      "12-2.1"
+    ],
+    "ErrorStackTrace": []
+  }
+]

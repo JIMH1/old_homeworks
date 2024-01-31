@@ -1,0 +1,54 @@
+[
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestExerciseMethodCallPrintStars",
+    "Message": "",
+    "Points": [
+      "2-21.1"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestExerciseMethodCallChristmasTreeSeven",
+    "Message": "",
+    "Points": [
+      "2-21.3"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestExerciseMethodCallChristmasTreeThree",
+    "Message": "",
+    "Points": [
+      "2-21.3"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestExerciseMethodCallChristmasTreeFive",
+    "Message": "",
+    "Points": [
+      "2-21.3"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestExerciseMethodCallPrintRightTriangle",
+    "Message": "",
+    "Points": [
+      "2-21.2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestExerciseMethodCallPrintSpaces",
+    "Message": "",
+    "Points": [],
+    "ErrorStackTrace": []
+  }
+]

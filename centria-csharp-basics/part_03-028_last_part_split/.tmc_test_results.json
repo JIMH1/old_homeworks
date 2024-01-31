@@ -1,0 +1,29 @@
+[
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestMultibleLinesLastWord",
+    "Message": "",
+    "Points": [
+      "3-28"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestTypoInLastWord",
+    "Message": "",
+    "Points": [
+      "3-28"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestLastWord",
+    "Message": "",
+    "Points": [
+      "3-28"
+    ],
+    "ErrorStackTrace": []
+  }
+]

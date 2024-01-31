@@ -1,0 +1,38 @@
+[
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.PointForSectionTwo",
+    "Message": "",
+    "Points": [
+      "6-2.3"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.AnotherPointForSectionTwo",
+    "Message": "",
+    "Points": [
+      "6-2.4"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.AnotherPointForSectionOne",
+    "Message": "",
+    "Points": [
+      "6-2.2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.PointForSectionOne",
+    "Message": "",
+    "Points": [
+      "6-2.1"
+    ],
+    "ErrorStackTrace": []
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "Passed": true,
+    "Name": "Exercise001Test.ProgramTest.CountInnerNameSpaceExampleExampleCalls",
+    "Message": "",
+    "Points": [
+      "12-1.2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise001Test.ProgramTest.TestMainIsUntouchedAndWorks",
+    "Message": "",
+    "Points": [
+      "12-1.1"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise001Test.ProgramTest.CountNameSpaceExampleExampleCalls",
+    "Message": "",
+    "Points": [
+      "12-1.2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise001Test.ProgramTest.CountNoWriteLinesInMain",
+    "Message": "",
+    "Points": [
+      "12-1.1"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise001Test.ProgramTest.CountInnerNameSpaceExampleMethodCalls",
+    "Message": "",
+    "Points": [
+      "12-1.2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise001Test.ProgramTest.CountNameSpaceExampleMethodCalls",
+    "Message": "",
+    "Points": [
+      "12-1.2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise001Test.ProgramTest.CountNoWritesInMain",
+    "Message": "",
+    "Points": [
+      "12-1.1"
+    ],
+    "ErrorStackTrace": []
+  }
+]

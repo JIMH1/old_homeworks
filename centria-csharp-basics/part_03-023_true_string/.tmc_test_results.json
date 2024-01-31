@@ -1,0 +1,29 @@
+[
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestWhenSpelledWrong",
+    "Message": "",
+    "Points": [
+      "3-23"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestWhenFalse",
+    "Message": "",
+    "Points": [
+      "3-23"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestWhenTrue",
+    "Message": "",
+    "Points": [
+      "3-23"
+    ],
+    "ErrorStackTrace": []
+  }
+]

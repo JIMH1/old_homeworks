@@ -1,0 +1,65 @@
+[
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestMainMethodWithMultipleDifferentItems",
+    "Message": "",
+    "Points": [
+      "5-13"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestMainMethodAskingThreeSameDolls",
+    "Message": "",
+    "Points": [
+      "5-13"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestAreNotEqualWithDifferentNameDifferentID",
+    "Message": "",
+    "Points": [
+      "5-13"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestAreEqualHeMen",
+    "Message": "",
+    "Points": [
+      "5-13"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestAreEqualHeManAndKenDoll",
+    "Message": "",
+    "Points": [
+      "5-13"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestConstructor",
+    "Message": "",
+    "Points": [
+      "5-13"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestAreNotEqualWithSameNameDifferentID",
+    "Message": "",
+    "Points": [
+      "5-13"
+    ],
+    "ErrorStackTrace": []
+  }
+]

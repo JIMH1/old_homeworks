@@ -1,0 +1,101 @@
+[
+  {
+    "Passed": true,
+    "Name": "Exercise004Test.ProgramTest.TestEquals",
+    "Message": "",
+    "Points": [
+      "9-4.1"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise004Test.ProgramTest.MaxWeightTooLargeSingleShouldWork",
+    "Message": "",
+    "Points": [
+      "9-4.2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise004Test.ProgramTest.OtherOneItemBoxShouldWork",
+    "Message": "",
+    "Points": [
+      "9-4.2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise004Test.ProgramTest.MaxWeightFittingSingleShouldWork",
+    "Message": "",
+    "Points": [
+      "9-4.2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise004Test.ProgramTest.MaxWeightExampleShouldWork",
+    "Message": "",
+    "Points": [
+      "9-4.2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise004Test.ProgramTest.TestAnotherHashCode",
+    "Message": "",
+    "Points": [
+      "9-4.1"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise004Test.ProgramTest.OneItemBoxShouldWork",
+    "Message": "",
+    "Points": [
+      "9-4.2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise004Test.ProgramTest.TestHashCode",
+    "Message": "",
+    "Points": [
+      "9-4.1"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise004Test.ProgramTest.MisplacingBoxShouldWork",
+    "Message": "",
+    "Points": [
+      "9-4.2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise004Test.ProgramTest.TestAnotherEquals",
+    "Message": "",
+    "Points": [
+      "9-4.1"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise004Test.ProgramTest.MaxWeightOthersShouldWork",
+    "Message": "",
+    "Points": [
+      "9-4.2"
+    ],
+    "ErrorStackTrace": []
+  }
+]

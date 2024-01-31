@@ -1,0 +1,34 @@
+[
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestNegative",
+    "Message": "",
+    "Points": [],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestWrongOrder",
+    "Message": "",
+    "Points": [],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestSecondSection",
+    "Message": "",
+    "Points": [
+      "2-7.2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestFirstSection",
+    "Message": "",
+    "Points": [
+      "2-7.1"
+    ],
+    "ErrorStackTrace": []
+  }
+]

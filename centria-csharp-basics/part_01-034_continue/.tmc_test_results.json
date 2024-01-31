@@ -1,0 +1,20 @@
+[
+  {
+    "Passed": true,
+    "Name": "Exercise034.ProgramTest.TestIfFinish2",
+    "Message": "",
+    "Points": [
+      "1-34"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise034.ProgramTest.TestIfFinish",
+    "Message": "",
+    "Points": [
+      "1-34"
+    ],
+    "ErrorStackTrace": []
+  }
+]

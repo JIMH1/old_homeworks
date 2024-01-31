@@ -1,0 +1,56 @@
+[
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestProductNameAndWeightConstructor",
+    "Message": "",
+    "Points": [
+      "5-4"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestProductNameAndLocationConstructor",
+    "Message": "",
+    "Points": [
+      "5-4"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestProductNameAndWeightConstructorToString",
+    "Message": "",
+    "Points": [
+      "5-4"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestProductNameConstructor",
+    "Message": "",
+    "Points": [
+      "5-4"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestProductNameAndLocationConstructorToString",
+    "Message": "",
+    "Points": [
+      "5-4"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestProductNameConstructorToString",
+    "Message": "",
+    "Points": [
+      "5-4"
+    ],
+    "ErrorStackTrace": []
+  }
+]

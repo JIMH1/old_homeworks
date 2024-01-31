@@ -1,0 +1,29 @@
+[
+  {
+    "Passed": true,
+    "Name": "Exercise003Test.ProgramTest.CountMasterUses",
+    "Message": "",
+    "Points": [
+      "12-3.2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise003Test.ProgramTest.TestSystemUsing",
+    "Message": "",
+    "Points": [
+      "12-3.1"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise003Test.ProgramTest.CountCreatingMasters",
+    "Message": "",
+    "Points": [
+      "12-3.1"
+    ],
+    "ErrorStackTrace": []
+  }
+]

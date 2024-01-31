@@ -1,0 +1,65 @@
+[
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestAreNotEqualDifferentNameAndYear",
+    "Message": "",
+    "Points": [
+      "5-12"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestAreEqualBooks",
+    "Message": "",
+    "Points": [
+      "5-12"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestExercise130Once",
+    "Message": "",
+    "Points": [
+      "5-12"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestAreNotEqualDifferentYear",
+    "Message": "",
+    "Points": [
+      "5-12"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestAreNotEqualDifferentName",
+    "Message": "",
+    "Points": [
+      "5-12"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestExercise130Twice",
+    "Message": "",
+    "Points": [
+      "5-12"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestAreEqualAgain",
+    "Message": "",
+    "Points": [
+      "5-12"
+    ],
+    "ErrorStackTrace": []
+  }
+]

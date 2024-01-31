@@ -1,0 +1,92 @@
+[
+  {
+    "Passed": true,
+    "Name": "Exercise005Test.ProgramTest.SavingToFileShouldWork",
+    "Message": "",
+    "Points": [
+      "11-5.5"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise005Test.ProgramTest.SectionFourReturnsShouldWork",
+    "Message": "",
+    "Points": [
+      "11-5.4"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise005Test.ProgramTest.Section3ExampleShouldWork",
+    "Message": "",
+    "Points": [
+      "11-5.3"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise005Test.ProgramTest.SectionOneSimpleTranslateShouldWork",
+    "Message": "",
+    "Points": [
+      "11-5.1"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise005Test.ProgramTest.SectionTwoSimpleAddAndDeleteShouldWork",
+    "Message": "",
+    "Points": [
+      "11-5.2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise005Test.ProgramTest.Section1ExampleShouldWork",
+    "Message": "",
+    "Points": [
+      "11-5.1"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise005Test.ProgramTest.Section2ExampleShouldWork",
+    "Message": "",
+    "Points": [
+      "11-5.2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise005Test.ProgramTest.SectionThreeOtherTranslationsShouldWork",
+    "Message": "",
+    "Points": [
+      "11-5.3"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise005Test.ProgramTest.SavingToFileOtherWordsShouldWork",
+    "Message": "",
+    "Points": [
+      "11-5.5"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise005Test.ProgramTest.Section4and5ExampleShouldWork",
+    "Message": "",
+    "Points": [
+      "11-5.4"
+    ],
+    "ErrorStackTrace": []
+  }
+]

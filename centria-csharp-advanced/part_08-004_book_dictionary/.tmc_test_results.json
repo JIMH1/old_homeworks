@@ -1,0 +1,29 @@
+[
+  {
+    "Passed": true,
+    "Name": "Exercise004Test.ProgramTest.TestPrintValues",
+    "Message": "",
+    "Points": [
+      "8-4"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise004Test.ProgramTest.TestPrintValueIfNameContainsHeikki",
+    "Message": "",
+    "Points": [
+      "8-4"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise004Test.ProgramTest.TestPrintValueIfNameContainsPrejud",
+    "Message": "",
+    "Points": [
+      "8-4"
+    ],
+    "ErrorStackTrace": []
+  }
+]

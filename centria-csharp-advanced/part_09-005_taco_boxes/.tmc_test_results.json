@@ -1,0 +1,65 @@
+[
+  {
+    "Passed": true,
+    "Name": "Exercise005Test.ProgramTest.ZeroCustomShouldWork",
+    "Message": "",
+    "Points": [
+      "9-5"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise005Test.ProgramTest.HugeCustomShouldWork",
+    "Message": "",
+    "Points": [
+      "9-5"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise005Test.ProgramTest.ZeroCustomEatShouldWork",
+    "Message": "",
+    "Points": [
+      "9-5"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise005Test.ProgramTest.TripleTacoEatFourWorks",
+    "Message": "",
+    "Points": [
+      "9-5"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise005Test.ProgramTest.ExampleShouldWork",
+    "Message": "",
+    "Points": [
+      "9-5"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise005Test.ProgramTest.HugeCustomEatTooMuchShouldWork",
+    "Message": "",
+    "Points": [
+      "9-5"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise005Test.ProgramTest.TripleTacoEatWorks",
+    "Message": "",
+    "Points": [
+      "9-5"
+    ],
+    "ErrorStackTrace": []
+  }
+]

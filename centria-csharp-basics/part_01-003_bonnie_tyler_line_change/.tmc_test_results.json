@@ -1,0 +1,20 @@
+[
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestSingleWriteLineBonnie",
+    "Message": "",
+    "Points": [
+      "1-3"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.CountSingleWriteLine",
+    "Message": "",
+    "Points": [
+      "1-3"
+    ],
+    "ErrorStackTrace": []
+  }
+]

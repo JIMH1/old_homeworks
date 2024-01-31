@@ -1,0 +1,110 @@
+[
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestIncreaseByNEGATIVE10",
+    "Message": "",
+    "Points": [
+      "5-5"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestCounterIncrease",
+    "Message": "",
+    "Points": [
+      "5-5"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestDecreaseBy10",
+    "Message": "",
+    "Points": [
+      "5-5"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestIncreaseExistingByNEGATIVE12",
+    "Message": "",
+    "Points": [
+      "5-5"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestCounterIncreaseMore",
+    "Message": "",
+    "Points": [
+      "5-5"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestCounterNullConstructor",
+    "Message": "",
+    "Points": [
+      "5-5"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestDecrease",
+    "Message": "",
+    "Points": [
+      "5-5"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestRandom",
+    "Message": "",
+    "Points": [
+      "5-5"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestCounterStartNumberConstructor",
+    "Message": "",
+    "Points": [
+      "5-5"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestDecreaseExistingValueByNEGATIVE15",
+    "Message": "",
+    "Points": [
+      "5-5"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestIncreaseBy12",
+    "Message": "",
+    "Points": [
+      "5-5"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestDecreaseByNEGATIVE10",
+    "Message": "",
+    "Points": [
+      "5-5"
+    ],
+    "ErrorStackTrace": []
+  }
+]

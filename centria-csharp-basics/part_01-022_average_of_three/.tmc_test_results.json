@@ -1,0 +1,18 @@
+[
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestCountingAverage2",
+    "Message": "",
+    "Points": [],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestCountingAverage",
+    "Message": "",
+    "Points": [
+      "1-22"
+    ],
+    "ErrorStackTrace": []
+  }
+]

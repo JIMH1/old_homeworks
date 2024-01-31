@@ -1,0 +1,74 @@
+[
+  {
+    "Passed": true,
+    "Name": "Exercise003Test.ProgramTest.TestThirdProductWarehouseWithHistory",
+    "Message": "",
+    "Points": [
+      "9-3.3"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise003Test.ProgramTest.TestProductWarehouseWithHistory",
+    "Message": "",
+    "Points": [
+      "9-3.3"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise003Test.ProgramTest.TestAnotherChangeHistory",
+    "Message": "",
+    "Points": [
+      "9-3.2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise003Test.ProgramTest.TestAnotherProductWarehouseWithHistory",
+    "Message": "",
+    "Points": [
+      "9-3.3"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise003Test.ProgramTest.TestChangeHistory",
+    "Message": "",
+    "Points": [
+      "9-3.2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise003Test.ProgramTest.TestProductWarehouse",
+    "Message": "",
+    "Points": [
+      "9-3.1"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise003Test.ProgramTest.TestAnotherProductWarehouse",
+    "Message": "",
+    "Points": [
+      "9-3.1"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise003Test.ProgramTest.TestBaseClass",
+    "Message": "",
+    "Points": [
+      "9-3.1"
+    ],
+    "ErrorStackTrace": []
+  }
+]

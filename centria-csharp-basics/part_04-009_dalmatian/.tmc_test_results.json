@@ -1,0 +1,29 @@
+[
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestMultipleDogs",
+    "Message": "",
+    "Points": [
+      "4-9"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestAnotherDog",
+    "Message": "",
+    "Points": [
+      "4-9"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestPrintExample",
+    "Message": "",
+    "Points": [
+      "4-9"
+    ],
+    "ErrorStackTrace": []
+  }
+]

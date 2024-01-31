@@ -1,0 +1,200 @@
+[
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestEatLunchNotEnoughMoney",
+    "Message": "",
+    "Points": [
+      "5-8.2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestEatLunchExactMoney",
+    "Message": "",
+    "Points": [
+      "5-8.2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestDrinkCoffeeNotEnoughMoney",
+    "Message": "",
+    "Points": [
+      "5-8.2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestEatLunchFromCardBooleanFalse",
+    "Message": "",
+    "Points": [
+      "5-8.3"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestDrinkCoffee",
+    "Message": "",
+    "Points": [
+      "5-8.2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestCardTakeTooMuchMoneyBalance",
+    "Message": "",
+    "Points": [
+      "5-8.1"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestAddMoneyToBalances",
+    "Message": "",
+    "Points": [
+      "5-8.4"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestAddNegativeMoneyDoesNotChangeBalances",
+    "Message": "",
+    "Points": [
+      "5-8.4"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestDrinkCoffeeExactMoney",
+    "Message": "",
+    "Points": [
+      "5-8.2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestTerminalConstructor",
+    "Message": "",
+    "Points": [
+      "5-8.2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestDrinkCoffeeFromCardBooleanFalse",
+    "Message": "",
+    "Points": [
+      "5-8.3"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestCardTakeMoneyBoolean",
+    "Message": "",
+    "Points": [
+      "5-8.1"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestEatLunch",
+    "Message": "",
+    "Points": [
+      "5-8.2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestEatLunchFromCardBooleanTrue",
+    "Message": "",
+    "Points": [
+      "5-8.3"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestDrinkCoffeeFromCardBooleanTrue",
+    "Message": "",
+    "Points": [
+      "5-8.3"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestCardConstructor",
+    "Message": "",
+    "Points": [
+      "5-8.1"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestCardTakeMoneyBalance",
+    "Message": "",
+    "Points": [
+      "5-8.1"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestCardTakeTooMuchMoneyBoolean",
+    "Message": "",
+    "Points": [
+      "5-8.1"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestCardAddMoney",
+    "Message": "",
+    "Points": [
+      "5-8.1"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestTerminalInitialValues",
+    "Message": "",
+    "Points": [
+      "5-8.2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestEatLunchFromCardNotEnoughMoney",
+    "Message": "",
+    "Points": [
+      "5-8.3"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestEatLunchFromCard",
+    "Message": "",
+    "Points": [
+      "5-8.3"
+    ],
+    "ErrorStackTrace": []
+  }
+]

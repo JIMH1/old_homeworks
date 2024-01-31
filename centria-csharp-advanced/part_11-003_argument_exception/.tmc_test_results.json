@@ -1,0 +1,65 @@
+[
+  {
+    "Passed": true,
+    "Name": "Exercise003Test.ProgramTest.TestProperPersonAgain",
+    "Message": "",
+    "Points": [
+      "11-3.2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise003Test.ProgramTest.TestTooYoung",
+    "Message": "",
+    "Points": [
+      "11-3.2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise003Test.ProgramTest.TestTooOld",
+    "Message": "",
+    "Points": [
+      "11-3.2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise003Test.ProgramTest.TestEmptyName",
+    "Message": "",
+    "Points": [
+      "11-3.1"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise003Test.ProgramTest.TestNullForName",
+    "Message": "",
+    "Points": [
+      "11-3.1"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise003Test.ProgramTest.TestTooLongName",
+    "Message": "",
+    "Points": [
+      "11-3.1"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise003Test.ProgramTest.TestProperPerson",
+    "Message": "",
+    "Points": [
+      "11-3.1"
+    ],
+    "ErrorStackTrace": []
+  }
+]

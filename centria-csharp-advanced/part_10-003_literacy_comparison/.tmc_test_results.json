@@ -1,0 +1,74 @@
+[
+  {
+    "Passed": true,
+    "Name": "Exercise003Test.ProgramTest.TestSortingBookList",
+    "Message": "",
+    "Points": [
+      "10-3.2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise003Test.ProgramTest.TestBookCreation",
+    "Message": "",
+    "Points": [
+      "10-3.1"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise003Test.ProgramTest.TestSortingEqualAgesList",
+    "Message": "",
+    "Points": [
+      "10-3.3"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise003Test.ProgramTest.TestTheUIWorksWithOtherBooks",
+    "Message": "",
+    "Points": [
+      "10-3.1"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise003Test.ProgramTest.TestFinalOrderExample",
+    "Message": "",
+    "Points": [
+      "10-3.3"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise003Test.ProgramTest.TestFinalOrder",
+    "Message": "",
+    "Points": [
+      "10-3.3"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise003Test.ProgramTest.TestSortingBookListWithDifferentAgeRecommendations",
+    "Message": "",
+    "Points": [
+      "10-3.2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise003Test.ProgramTest.TestTheUIWorks",
+    "Message": "",
+    "Points": [
+      "10-3.1"
+    ],
+    "ErrorStackTrace": []
+  }
+]

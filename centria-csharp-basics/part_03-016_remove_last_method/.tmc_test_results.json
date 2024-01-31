@@ -1,0 +1,29 @@
+[
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestRemoveLastString",
+    "Message": "",
+    "Points": [
+      "3-16"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestRemoveMultipleStrings",
+    "Message": "",
+    "Points": [
+      "3-16"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestWhenOneString",
+    "Message": "",
+    "Points": [
+      "3-16"
+    ],
+    "ErrorStackTrace": []
+  }
+]

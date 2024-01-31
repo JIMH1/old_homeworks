@@ -1,0 +1,29 @@
+[
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestNothingIsPrinted",
+    "Message": "",
+    "Points": [
+      "3-8"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestOnly10And3ArePrinted",
+    "Message": "",
+    "Points": [
+      "3-8"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestOnly12IsPrinted",
+    "Message": "",
+    "Points": [
+      "3-8"
+    ],
+    "ErrorStackTrace": []
+  }
+]

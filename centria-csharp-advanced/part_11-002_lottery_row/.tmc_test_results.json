@@ -1,0 +1,56 @@
+[
+  {
+    "Passed": true,
+    "Name": "Exercise002Test.ProgramTest.TestListShouldBeSortedAndContainsSevenNumbers",
+    "Message": "",
+    "Points": [
+      "11-2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise002Test.ProgramTest.TestLotteryContainsSevenNumbersInConstructor",
+    "Message": "",
+    "Points": [
+      "11-2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise002Test.ProgramTest.NumbersInGivenRange",
+    "Message": "",
+    "Points": [
+      "11-2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise002Test.ProgramTest.ContainsNumberShouldReturnFalse",
+    "Message": "",
+    "Points": [
+      "11-2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise002Test.ProgramTest.NumbersAreDifferentAndIncreasing",
+    "Message": "",
+    "Points": [
+      "11-2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise002Test.ProgramTest.ContainsNumberShouldReturnTrue",
+    "Message": "",
+    "Points": [
+      "11-2"
+    ],
+    "ErrorStackTrace": []
+  }
+]

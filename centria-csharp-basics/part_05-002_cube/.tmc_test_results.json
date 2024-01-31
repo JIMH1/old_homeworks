@@ -1,0 +1,56 @@
+[
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestCubeConstructor",
+    "Message": "",
+    "Points": [
+      "5-02"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestRandomCubeToString",
+    "Message": "",
+    "Points": [
+      "5-02"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestRandomCubeVolume",
+    "Message": "",
+    "Points": [
+      "5-02"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestFourCubeToString",
+    "Message": "",
+    "Points": [
+      "5-02"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestHugeCubeVolume",
+    "Message": "",
+    "Points": [
+      "5-02"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestCubeVolume",
+    "Message": "",
+    "Points": [
+      "5-02"
+    ],
+    "ErrorStackTrace": []
+  }
+]

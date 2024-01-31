@@ -1,0 +1,29 @@
+[
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestSumMethod",
+    "Message": "",
+    "Points": [
+      "3-15"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestNegative",
+    "Message": "",
+    "Points": [
+      "3-15"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestResultIsZero",
+    "Message": "",
+    "Points": [
+      "3-15"
+    ],
+    "ErrorStackTrace": []
+  }
+]

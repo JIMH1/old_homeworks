@@ -1,0 +1,38 @@
+[
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestTestSumOfNumersTwice",
+    "Message": "",
+    "Points": [
+      "3-19"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestTestSumOfNumersThree",
+    "Message": "",
+    "Points": [
+      "3-19"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestSumOfNumers",
+    "Message": "",
+    "Points": [
+      "3-19"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestTestSumOfNumersFour",
+    "Message": "",
+    "Points": [
+      "3-19"
+    ],
+    "ErrorStackTrace": []
+  }
+]

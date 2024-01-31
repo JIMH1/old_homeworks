@@ -1,0 +1,20 @@
+[
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestCaveTrollNotWelcome",
+    "Message": "",
+    "Points": [
+      "1-32"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestMellonIsWelcome",
+    "Message": "",
+    "Points": [
+      "1-32"
+    ],
+    "ErrorStackTrace": []
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestSecondIsLarger",
+    "Message": "",
+    "Points": [],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestFirstIsLarger",
+    "Message": "",
+    "Points": [
+      "1-29"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestWhenEqual",
+    "Message": "",
+    "Points": [],
+    "ErrorStackTrace": []
+  }
+]

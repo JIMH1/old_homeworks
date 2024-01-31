@@ -1,0 +1,74 @@
+[
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestHealthStationFeeding",
+    "Message": "",
+    "Points": [
+      "5-7.2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestPersonConstructor",
+    "Message": "",
+    "Points": [
+      "5-7.1"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestHealthStationConstructor",
+    "Message": "",
+    "Points": [
+      "5-7.1"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestHealthStationWeighingAnother",
+    "Message": "",
+    "Points": [
+      "5-7.1"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestHealthStationFeedingMore",
+    "Message": "",
+    "Points": [
+      "5-7.2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestHealthStationWeighingCounter",
+    "Message": "",
+    "Points": [
+      "5-7.3"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestHealthStationWeighingCounterMultiplePeople",
+    "Message": "",
+    "Points": [
+      "5-7.3"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestHealthStationWeighing",
+    "Message": "",
+    "Points": [
+      "5-7.1"
+    ],
+    "ErrorStackTrace": []
+  }
+]

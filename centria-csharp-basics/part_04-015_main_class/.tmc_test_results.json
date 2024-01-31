@@ -1,0 +1,29 @@
+[
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestAddingToListWorks",
+    "Message": "",
+    "Points": [
+      "4-15"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestToString",
+    "Message": "",
+    "Points": [
+      "4-15"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestAddingToListWorksMore",
+    "Message": "",
+    "Points": [
+      "4-15"
+    ],
+    "ErrorStackTrace": []
+  }
+]

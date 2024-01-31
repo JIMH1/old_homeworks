@@ -1,0 +1,218 @@
+[
+  {
+    "Passed": true,
+    "Name": "Exercise005Test.ProgramTest.TestQueenOfClugs",
+    "Message": "",
+    "Points": [
+      "10-5.1"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise005Test.ProgramTest.AnotherOrderBeforeSortShouldWork",
+    "Message": "",
+    "Points": [
+      "10-5.4"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise005Test.ProgramTest.Example5ShouldWork",
+    "Message": "",
+    "Points": [
+      "10-5.5"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise005Test.ProgramTest.TestAceOfSpades",
+    "Message": "",
+    "Points": [
+      "10-5.1"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise005Test.ProgramTest.HandOfClubsSortShouldWork",
+    "Message": "",
+    "Points": [
+      "10-5.4"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise005Test.ProgramTest.HandHasNoDuplicateCards",
+    "Message": "",
+    "Points": [
+      "10-5.3"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise005Test.ProgramTest.HandComparisonShouldWorkOtherWay",
+    "Message": "",
+    "Points": [
+      "10-5.5"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise005Test.ProgramTest.Example2ShouldWork",
+    "Message": "",
+    "Points": [
+      "10-5.2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise005Test.ProgramTest.Example4ShouldWork",
+    "Message": "",
+    "Points": [
+      "10-5.4"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise005Test.ProgramTest.ReorderedCardsShouldWork",
+    "Message": "",
+    "Points": [
+      "10-5.3"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise005Test.ProgramTest.TestJackOfDiamonds",
+    "Message": "",
+    "Points": [
+      "10-5.1"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise005Test.ProgramTest.TestCompareEqual",
+    "Message": "",
+    "Points": [
+      "10-5.2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise005Test.ProgramTest.ExampleShouldWork",
+    "Message": "",
+    "Points": [
+      "10-5.1"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise005Test.ProgramTest.HandImplementsIComparable",
+    "Message": "",
+    "Points": [
+      "10-5.5"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise005Test.ProgramTest.HandComparisonShouldWorkEqualValues",
+    "Message": "",
+    "Points": [
+      "10-5.5"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise005Test.ProgramTest.Example3ShouldWork",
+    "Message": "",
+    "Points": [
+      "10-5.3"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise005Test.ProgramTest.NoDuplicatesWithSort",
+    "Message": "",
+    "Points": [
+      "10-5.4"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise005Test.ProgramTest.TestCompareClubsToSpades",
+    "Message": "",
+    "Points": [
+      "10-5.2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise005Test.ProgramTest.CardImplementsIComparable",
+    "Message": "",
+    "Points": [
+      "10-5.1"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise005Test.ProgramTest.HandComparisonShouldWork",
+    "Message": "",
+    "Points": [
+      "10-5.5"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise005Test.ProgramTest.TestCompareHeartToHeart",
+    "Message": "",
+    "Points": [
+      "10-5.2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise005Test.ProgramTest.DiamondHandShouldWork",
+    "Message": "",
+    "Points": [
+      "10-5.3"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise005Test.ProgramTest.TestCompareSpadeToHeart",
+    "Message": "",
+    "Points": [
+      "10-5.2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise005Test.ProgramTest.TestKingOfHearts",
+    "Message": "",
+    "Points": [
+      "10-5.1"
+    ],
+    "ErrorStackTrace": []
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestSumOfMultiple",
+    "Message": "",
+    "Points": [
+      "3-12"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestSumOfFour",
+    "Message": "",
+    "Points": [
+      "3-12"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestSumOfOne",
+    "Message": "",
+    "Points": [
+      "3-12"
+    ],
+    "ErrorStackTrace": []
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "Passed": true,
+    "Name": "Exercise004Test.ProgramTest.WritesShouldRemainTheSame",
+    "Message": "",
+    "Points": [
+      "12-4.2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise004Test.ProgramTest.CheckClosingIsRemoved",
+    "Message": "",
+    "Points": [
+      "12-4.1"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise004Test.ProgramTest.CheckUsingIsUsed",
+    "Message": "",
+    "Points": [
+      "12-4.2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise004Test.ProgramTest.CountCreatingStreamWriters",
+    "Message": "",
+    "Points": [
+      "12-4.1"
+    ],
+    "ErrorStackTrace": []
+  }
+]

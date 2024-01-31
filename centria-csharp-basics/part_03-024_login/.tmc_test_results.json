@@ -1,0 +1,47 @@
+[
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.AlexWrongPasswordCheck",
+    "Message": "",
+    "Points": [
+      "3-24"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.BobWrongPasswordCheck",
+    "Message": "",
+    "Points": [
+      "3-24"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.EmmaWrongPasswordCheck",
+    "Message": "",
+    "Points": [
+      "3-24"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.EmmaSuccessfullLogin",
+    "Message": "",
+    "Points": [
+      "3-24"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.AlexSuccessfullLogin",
+    "Message": "",
+    "Points": [
+      "3-24"
+    ],
+    "ErrorStackTrace": []
+  }
+]

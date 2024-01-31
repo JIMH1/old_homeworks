@@ -1,0 +1,38 @@
+[
+  {
+    "Passed": true,
+    "Name": "Exercise001Test.ProgramTest.AShouldWorkAlone",
+    "Message": "",
+    "Points": [
+      "9-1"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise001Test.ProgramTest.ExampleWithInheritanceShouldWork",
+    "Message": "",
+    "Points": [
+      "9-1"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise001Test.ProgramTest.ExampleShouldWork",
+    "Message": "",
+    "Points": [
+      "9-1"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise001Test.ProgramTest.InheritingBShouldWork",
+    "Message": "",
+    "Points": [
+      "9-1"
+    ],
+    "ErrorStackTrace": []
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestPowerNegativeExit",
+    "Message": "",
+    "Points": [
+      "1-36"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestExit",
+    "Message": "",
+    "Points": [],
+    "ErrorStackTrace": []
+  }
+]

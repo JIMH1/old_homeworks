@@ -1,0 +1,83 @@
+[
+  {
+    "Passed": true,
+    "Name": "Exercise002Test.ProgramTest.OtherWayNamesShouldWork",
+    "Message": "",
+    "Points": [
+      "10-2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise002Test.ProgramTest.LeevingsLowercaseEqualShouldWork",
+    "Message": "",
+    "Points": [
+      "10-2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise002Test.ProgramTest.NullShouldWork",
+    "Message": "",
+    "Points": [
+      "10-2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise002Test.ProgramTest.StudentImplementsIComparable",
+    "Message": "",
+    "Points": [
+      "10-2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise002Test.ProgramTest.LeevingsALLCAPSEqualShouldWork",
+    "Message": "",
+    "Points": [
+      "10-2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise002Test.ProgramTest.ExampleShouldWork",
+    "Message": "",
+    "Points": [
+      "10-2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise002Test.ProgramTest.LeevingsEqualShouldWork",
+    "Message": "",
+    "Points": [
+      "10-2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise002Test.ProgramTest.LeevingsShouldWork",
+    "Message": "",
+    "Points": [
+      "10-2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise002Test.ProgramTest.EqualNamesShouldWork",
+    "Message": "",
+    "Points": [
+      "10-2"
+    ],
+    "ErrorStackTrace": []
+  }
+]

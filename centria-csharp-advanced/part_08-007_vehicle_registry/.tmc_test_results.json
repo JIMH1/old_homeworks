@@ -1,0 +1,119 @@
+[
+  {
+    "Passed": true,
+    "Name": "Exercise007Test.ProgramTest.TestHashCodeDifferentObjectSamePlate",
+    "Message": "",
+    "Points": [
+      "8-7.1"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise007Test.ProgramTest.TestHashCodeSameObject",
+    "Message": "",
+    "Points": [
+      "8-7.1"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise007Test.ProgramTest.RemoveShouldReturnTrue",
+    "Message": "",
+    "Points": [
+      "8-7.2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise007Test.ProgramTest.TestEqualsString",
+    "Message": "",
+    "Points": [
+      "8-7.1"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise007Test.ProgramTest.GetShouldReturnNotOwner",
+    "Message": "",
+    "Points": [
+      "8-7.2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise007Test.ProgramTest.ExampleShouldWork",
+    "Message": "",
+    "Points": [
+      "8-7.2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise007Test.ProgramTest.TestHashCodeDifferentObjectDifferentPlate",
+    "Message": "",
+    "Points": [
+      "8-7.1"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise007Test.ProgramTest.AddShouldReturnTrue",
+    "Message": "",
+    "Points": [
+      "8-7.2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise007Test.ProgramTest.TestEqualsSamePlateDifferentObject",
+    "Message": "",
+    "Points": [
+      "8-7.1"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise007Test.ProgramTest.TestEqualsSamePlateSameObject",
+    "Message": "",
+    "Points": [
+      "8-7.1"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise007Test.ProgramTest.AddShouldReturnFalse",
+    "Message": "",
+    "Points": [
+      "8-7.2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise007Test.ProgramTest.RemoveShouldReturnFalse",
+    "Message": "",
+    "Points": [
+      "8-7.2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise007Test.ProgramTest.GetShouldReturnOwner",
+    "Message": "",
+    "Points": [
+      "8-7.2"
+    ],
+    "ErrorStackTrace": []
+  }
+]

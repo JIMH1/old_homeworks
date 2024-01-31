@@ -1,0 +1,38 @@
+[
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestDifferentNumbers",
+    "Message": "",
+    "Points": [
+      "4-20"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestReadingOnlyEnd",
+    "Message": "",
+    "Points": [
+      "4-20"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestReadingLines",
+    "Message": "",
+    "Points": [
+      "4-20"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestMainContainsOnlyOneReadLine",
+    "Message": "",
+    "Points": [
+      "4-20"
+    ],
+    "ErrorStackTrace": []
+  }
+]

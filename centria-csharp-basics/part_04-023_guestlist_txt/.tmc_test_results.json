@@ -1,0 +1,29 @@
+[
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestExercise118OtherNamesFileContent",
+    "Message": "",
+    "Points": [
+      "4-23"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestExercise118NamesFileContent",
+    "Message": "",
+    "Points": [
+      "4-23"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestExercise118OtherFilesHeikki",
+    "Message": "",
+    "Points": [
+      "4-23"
+    ],
+    "ErrorStackTrace": []
+  }
+]

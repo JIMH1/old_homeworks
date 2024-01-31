@@ -1,0 +1,38 @@
+[
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestExampleArray",
+    "Message": "",
+    "Points": [
+      "3-21"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestSingleElementArray",
+    "Message": "",
+    "Points": [
+      "3-21"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestDifferentArray",
+    "Message": "",
+    "Points": [
+      "3-21"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestLargerArray",
+    "Message": "",
+    "Points": [
+      "3-21"
+    ],
+    "ErrorStackTrace": []
+  }
+]

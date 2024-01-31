@@ -1,0 +1,20 @@
+[
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestWhenInRange",
+    "Message": "",
+    "Points": [
+      "2-14"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestWhenNotInRange",
+    "Message": "",
+    "Points": [
+      "2-14"
+    ],
+    "ErrorStackTrace": []
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestWhenEqual",
+    "Message": "",
+    "Points": [
+      "2-18"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestWhenFirstIsSmallest",
+    "Message": "",
+    "Points": [
+      "2-18"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestWhenSecondIsSmallest",
+    "Message": "",
+    "Points": [
+      "2-18"
+    ],
+    "ErrorStackTrace": []
+  }
+]

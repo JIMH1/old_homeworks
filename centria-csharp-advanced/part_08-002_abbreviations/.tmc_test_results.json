@@ -1,0 +1,56 @@
+[
+  {
+    "Passed": true,
+    "Name": "Exercise002Test.ProgramTest.TestAbbreviationsClassFindExpETC",
+    "Message": "",
+    "Points": [
+      "8-2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise002Test.ProgramTest.TestAbbreviationsClassDoNotFindUnexisting",
+    "Message": "",
+    "Points": [
+      "8-2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise002Test.ProgramTest.TestAbbreviationsClassDoesNotHaveAbbs",
+    "Message": "",
+    "Points": [
+      "8-2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise002Test.ProgramTest.TestAbbreviationsClassFindExpJNE",
+    "Message": "",
+    "Points": [
+      "8-2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise002Test.ProgramTest.TestAbbreviationsClassFindExpNP",
+    "Message": "",
+    "Points": [
+      "8-2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise002Test.ProgramTest.TestAbbreviationsClassHasAbbs",
+    "Message": "",
+    "Points": [
+      "8-2"
+    ],
+    "ErrorStackTrace": []
+  }
+]

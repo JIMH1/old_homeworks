@@ -1,0 +1,18 @@
+[
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestWhenNotEqual",
+    "Message": "",
+    "Points": [],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestWhenEqual",
+    "Message": "",
+    "Points": [
+      "1-33"
+    ],
+    "ErrorStackTrace": []
+  }
+]

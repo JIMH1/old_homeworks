@@ -1,0 +1,74 @@
+[
+  {
+    "Passed": true,
+    "Name": "Exercise006Test.ProgramTest.FurnitureShouldWork",
+    "Message": "",
+    "Points": [
+      "9-6.1"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise006Test.ProgramTest.SecondExampleShouldWork",
+    "Message": "",
+    "Points": [
+      "9-6.2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise006Test.ProgramTest.ThirdExampleShouldWork",
+    "Message": "",
+    "Points": [
+      "9-6.2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise006Test.ProgramTest.BoxesShouldRespectTheirLimitsWithBooks",
+    "Message": "",
+    "Points": [
+      "9-6.2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise006Test.ProgramTest.ZeroBoxShouldNotContainAnything",
+    "Message": "",
+    "Points": [
+      "9-6.2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise006Test.ProgramTest.BookShouldWork",
+    "Message": "",
+    "Points": [
+      "9-6.1"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise006Test.ProgramTest.BoxesShouldRespectTheirLimitsWithTwoBooks",
+    "Message": "",
+    "Points": [
+      "9-6.2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise006Test.ProgramTest.BoxesShouldRespectTheirLimits",
+    "Message": "",
+    "Points": [
+      "9-6.2"
+    ],
+    "ErrorStackTrace": []
+  }
+]

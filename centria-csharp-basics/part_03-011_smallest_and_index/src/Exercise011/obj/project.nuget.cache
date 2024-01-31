@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sAJd5VBCPjmJD2hWZ+/Z73mTsR6cPylVZLu8QHQ4hKWT5u5Ek66PmU16IvXtVDt63O1qGFc59tK9oDzKVcA5Kw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\arman\\AppData\\Local\\tmc\\vscode\\centria-csharp-basics\\part_03-011_smallest_and_index\\src\\Exercise011\\Exercise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arman\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

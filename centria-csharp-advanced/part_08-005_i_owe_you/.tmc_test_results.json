@@ -1,0 +1,56 @@
+[
+  {
+    "Passed": true,
+    "Name": "Exercise001Test.ProgramTest.TestExample",
+    "Message": "",
+    "Points": [
+      "8-5"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise001Test.ProgramTest.TestSecondExample",
+    "Message": "",
+    "Points": [
+      "8-5"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise001Test.ProgramTest.TestMultipleChanges",
+    "Message": "",
+    "Points": [
+      "8-5"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise001Test.ProgramTest.TestSimpleNegativeAdd",
+    "Message": "",
+    "Points": [
+      "8-5"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise001Test.ProgramTest.TestSimpleOwe",
+    "Message": "",
+    "Points": [
+      "8-5"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise001Test.ProgramTest.TestSimpleAdd",
+    "Message": "",
+    "Points": [
+      "8-5"
+    ],
+    "ErrorStackTrace": []
+  }
+]

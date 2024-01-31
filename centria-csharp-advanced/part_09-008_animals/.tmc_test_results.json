@@ -1,0 +1,101 @@
+[
+  {
+    "Passed": true,
+    "Name": "Exercise008Test.ProgramTest.MoreNoiseShouldWork",
+    "Message": "",
+    "Points": [
+      "9-8.2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise008Test.ProgramTest.NoisyDogBarks",
+    "Message": "",
+    "Points": [
+      "9-8.2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise008Test.ProgramTest.NoisyCatMakesNoise",
+    "Message": "",
+    "Points": [
+      "9-8.2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise008Test.ProgramTest.NoisyExampleShouldWork",
+    "Message": "",
+    "Points": [
+      "9-8.2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise008Test.ProgramTest.CatExampleShouldWork",
+    "Message": "",
+    "Points": [
+      "9-8.1"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise008Test.ProgramTest.AnotherDogShouldBark",
+    "Message": "",
+    "Points": [
+      "9-8.1"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise008Test.ProgramTest.AnotherCatShouldMeow",
+    "Message": "",
+    "Points": [
+      "9-8.1"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise008Test.ProgramTest.DogExampleShouldWork",
+    "Message": "",
+    "Points": [
+      "9-8.1"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise008Test.ProgramTest.DogShouldSleep",
+    "Message": "",
+    "Points": [
+      "9-8.1"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise008Test.ProgramTest.CatSleepShouldWork",
+    "Message": "",
+    "Points": [
+      "9-8.1"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise008Test.ProgramTest.NoisyCatPurrs",
+    "Message": "",
+    "Points": [
+      "9-8.2"
+    ],
+    "ErrorStackTrace": []
+  }
+]

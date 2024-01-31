@@ -1,0 +1,218 @@
+[
+  {
+    "Passed": true,
+    "Name": "Exercise001Test.ProgramTest.TestDaysOfWeekSunday",
+    "Message": "",
+    "Points": [
+      "10-4.1"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise001Test.ProgramTest.TestTimesOfDayFalseOverSeconds",
+    "Message": "",
+    "Points": [
+      "10-4.3"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise001Test.ProgramTest.TestDaysOfWeekWed",
+    "Message": "",
+    "Points": [
+      "10-4.1"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise001Test.ProgramTest.TestTimesOfDayNoon",
+    "Message": "",
+    "Points": [
+      "10-4.3"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise001Test.ProgramTest.TestTimesOfDayRandomTime",
+    "Message": "",
+    "Points": [
+      "10-4.3"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise001Test.ProgramTest.TestWovelsShorter",
+    "Message": "",
+    "Points": [
+      "10-4.2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise001Test.ProgramTest.TestConsonantsKShouldBeFalse",
+    "Message": "",
+    "Points": [
+      "10-4.2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise001Test.ProgramTest.TestWovels",
+    "Message": "",
+    "Points": [
+      "10-4.2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise001Test.ProgramTest.TestConsonantsGShouldBeFalse",
+    "Message": "",
+    "Points": [
+      "10-4.2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise001Test.ProgramTest.TestTimesOfDayFalseOverMinutes",
+    "Message": "",
+    "Points": [
+      "10-4.3"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise001Test.ProgramTest.TestNordicWovelsShouldBeFalse",
+    "Message": "",
+    "Points": [
+      "10-4.2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise001Test.ProgramTest.TestDaysOfWeekFriday",
+    "Message": "",
+    "Points": [
+      "10-4.1"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise001Test.ProgramTest.TestTimesOfDayMidnight",
+    "Message": "",
+    "Points": [
+      "10-4.3"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise001Test.ProgramTest.TestTimesOfDayAlmostMidnight",
+    "Message": "",
+    "Points": [
+      "10-4.3"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise001Test.ProgramTest.TestDaysOfWeekThursday",
+    "Message": "",
+    "Points": [
+      "10-4.1"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise001Test.ProgramTest.TestTimesOfDayOverTime",
+    "Message": "",
+    "Points": [
+      "10-4.3"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise001Test.ProgramTest.TestDaysOfWeekABC",
+    "Message": "",
+    "Points": [
+      "10-4.1"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise001Test.ProgramTest.TestTimesOfDay24Hours",
+    "Message": "",
+    "Points": [
+      "10-4.3"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise001Test.ProgramTest.TestWovelsShort",
+    "Message": "",
+    "Points": [
+      "10-4.2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise001Test.ProgramTest.TestDaysOfWeekSaturday",
+    "Message": "",
+    "Points": [
+      "10-4.1"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise001Test.ProgramTest.TestDaysOfWeekMon",
+    "Message": "",
+    "Points": [
+      "10-4.1"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise001Test.ProgramTest.TestDaysOfWeekTue",
+    "Message": "",
+    "Points": [
+      "10-4.1"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise001Test.ProgramTest.TestWovelsFalseExample",
+    "Message": "",
+    "Points": [
+      "10-4.2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise001Test.ProgramTest.TestConsonantsYShouldBeFalse",
+    "Message": "",
+    "Points": [
+      "10-4.2"
+    ],
+    "ErrorStackTrace": []
+  }
+]

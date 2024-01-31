@@ -1,0 +1,56 @@
+[
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestGreatest2",
+    "Message": "",
+    "Points": [
+      "2-19"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestAllEqual",
+    "Message": "",
+    "Points": [
+      "2-19"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.Test2SmallerEquals",
+    "Message": "",
+    "Points": [
+      "2-19"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.Test2GreatestEquals",
+    "Message": "",
+    "Points": [
+      "2-19"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestGreatest3",
+    "Message": "",
+    "Points": [
+      "2-19"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestGreatest1",
+    "Message": "",
+    "Points": [
+      "2-19"
+    ],
+    "ErrorStackTrace": []
+  }
+]

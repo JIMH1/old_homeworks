@@ -1,0 +1,29 @@
+[
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestRoomAttributes",
+    "Message": "",
+    "Points": [
+      "4-4"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestExerciseRoomCreation",
+    "Message": "",
+    "Points": [
+      "4-4"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestLargerExerciseRoomCreation",
+    "Message": "",
+    "Points": [
+      "4-4"
+    ],
+    "ErrorStackTrace": []
+  }
+]

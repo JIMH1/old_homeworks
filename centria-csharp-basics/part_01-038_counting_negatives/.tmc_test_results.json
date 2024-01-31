@@ -1,0 +1,18 @@
+[
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestCountingNegatives",
+    "Message": "",
+    "Points": [
+      "1-38"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestingWithNull",
+    "Message": "",
+    "Points": [],
+    "ErrorStackTrace": []
+  }
+]

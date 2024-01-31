@@ -1,0 +1,25 @@
+[
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestForInput",
+    "Message": "",
+    "Points": [
+      "2-1"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestInputZero",
+    "Message": "",
+    "Points": [],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestIfInputNegative",
+    "Message": "",
+    "Points": [],
+    "ErrorStackTrace": []
+  }
+]

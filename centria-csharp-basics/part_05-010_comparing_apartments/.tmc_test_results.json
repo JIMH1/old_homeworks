@@ -1,0 +1,92 @@
+[
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestApartmentMoreExpensiveFirst",
+    "Message": "",
+    "Points": [
+      "5-10"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestOnSelf",
+    "Message": "",
+    "Points": [
+      "5-10"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestApartmentPriceDifferenceSecond",
+    "Message": "",
+    "Points": [
+      "5-10"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestApartmentMoreExpensiveSecond",
+    "Message": "",
+    "Points": [
+      "5-10"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestLargerThanFirst",
+    "Message": "",
+    "Points": [
+      "5-10"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestApartmentPriceDifferenceFirst",
+    "Message": "",
+    "Points": [
+      "5-10"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestApartmentConstructor",
+    "Message": "",
+    "Points": [
+      "5-10"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestApartmentMoreExpensiveSecondSmall",
+    "Message": "",
+    "Points": [
+      "5-10"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestLargerThanSecond",
+    "Message": "",
+    "Points": [
+      "5-10"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestEqualApartments",
+    "Message": "",
+    "Points": [
+      "5-10"
+    ],
+    "ErrorStackTrace": []
+  }
+]

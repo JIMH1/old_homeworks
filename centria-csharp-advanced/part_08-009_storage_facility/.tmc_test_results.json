@@ -1,0 +1,29 @@
+[
+  {
+    "Passed": true,
+    "Name": "Exercise009Test.ProgramTest.AddShouldAddAndContentsShouldFindIt",
+    "Message": "",
+    "Points": [
+      "8-9"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise009Test.ProgramTest.ExampleShouldWork",
+    "Message": "",
+    "Points": [
+      "8-9"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise009Test.ProgramTest.AddShouldAddAndRemoveShouldRemoveOnlyOne",
+    "Message": "",
+    "Points": [
+      "8-9"
+    ],
+    "ErrorStackTrace": []
+  }
+]

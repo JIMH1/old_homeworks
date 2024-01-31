@@ -1,0 +1,47 @@
+[
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestPrintEverything",
+    "Message": "",
+    "Points": [
+      "4-18.2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestPrintTitle",
+    "Message": "",
+    "Points": [
+      "4-18.2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestBookCreation",
+    "Message": "",
+    "Points": [
+      "4-18.1"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestPrintWrongInput",
+    "Message": "",
+    "Points": [
+      "4-18.2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestMainContainsFourReadLines",
+    "Message": "",
+    "Points": [
+      "4-18.2"
+    ],
+    "ErrorStackTrace": []
+  }
+]

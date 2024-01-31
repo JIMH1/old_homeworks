@@ -1,0 +1,18 @@
+[
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestCorrectYearAndName",
+    "Message": "",
+    "Points": [],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestFirstConsoleMarking",
+    "Message": "",
+    "Points": [
+      "1-25"
+    ],
+    "ErrorStackTrace": []
+  }
+]

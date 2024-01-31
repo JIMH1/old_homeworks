@@ -1,0 +1,29 @@
+[
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestExampleFitByte",
+    "Message": "",
+    "Points": [
+      "5-3"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestAnotherRandomFitbyte",
+    "Message": "",
+    "Points": [
+      "5-3"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestRandomFitbyte",
+    "Message": "",
+    "Points": [
+      "5-3"
+    ],
+    "ErrorStackTrace": []
+  }
+]

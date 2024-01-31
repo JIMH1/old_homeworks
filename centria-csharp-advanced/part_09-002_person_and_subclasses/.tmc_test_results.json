@@ -1,0 +1,56 @@
+[
+  {
+    "Passed": true,
+    "Name": "Exercise002Test.ProgramTest.OtherTeachersShouldWork",
+    "Message": "",
+    "Points": [
+      "9-2.3"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise002Test.ProgramTest.PersonExampleShouldWork",
+    "Message": "",
+    "Points": [
+      "9-2.1"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise002Test.ProgramTest.StudentExampleShouldWork",
+    "Message": "",
+    "Points": [
+      "9-2.2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise002Test.ProgramTest.OtherPeopleShouldWork",
+    "Message": "",
+    "Points": [
+      "9-2.1"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise002Test.ProgramTest.StudentStudiesMoreShouldWork",
+    "Message": "",
+    "Points": [
+      "9-2.2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise002Test.ProgramTest.TeacherExampleShouldWork",
+    "Message": "",
+    "Points": [
+      "9-2.3"
+    ],
+    "ErrorStackTrace": []
+  }
+]

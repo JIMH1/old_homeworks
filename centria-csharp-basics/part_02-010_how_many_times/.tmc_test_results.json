@@ -1,0 +1,29 @@
+[
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestPrint2Times",
+    "Message": "",
+    "Points": [
+      "2-10"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestPrint3Times",
+    "Message": "",
+    "Points": [
+      "2-10"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestNoPrint",
+    "Message": "",
+    "Points": [
+      "2-10"
+    ],
+    "ErrorStackTrace": []
+  }
+]

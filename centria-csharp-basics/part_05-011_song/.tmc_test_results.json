@@ -1,0 +1,74 @@
+[
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestAreNotEqualDifferentSongs",
+    "Message": "",
+    "Points": [
+      "5-11"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestAreEqualAgain",
+    "Message": "",
+    "Points": [
+      "5-11"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestAreNotEqualDifferentTime",
+    "Message": "",
+    "Points": [
+      "5-11"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestAreNotEqualDifferentArtists",
+    "Message": "",
+    "Points": [
+      "5-11"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestAreNotEqualDifferentAll",
+    "Message": "",
+    "Points": [
+      "5-11"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestIsNotEqualWithNullOtherWay",
+    "Message": "",
+    "Points": [
+      "5-11"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestIsNotEqualWithNull",
+    "Message": "",
+    "Points": [
+      "5-11"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestAreEqualSongs",
+    "Message": "",
+    "Points": [
+      "5-11"
+    ],
+    "ErrorStackTrace": []
+  }
+]

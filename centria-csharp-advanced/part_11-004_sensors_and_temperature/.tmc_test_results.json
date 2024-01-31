@@ -1,0 +1,56 @@
+[
+  {
+    "Passed": true,
+    "Name": "Exercise004Test.ProgramTest.TemperatureSensorShouldTurnOnAndOff",
+    "Message": "",
+    "Points": [
+      "11-4.2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise004Test.ProgramTest.StandardSensorFiveShouldWork",
+    "Message": "",
+    "Points": [
+      "11-4.1"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise004Test.ProgramTest.StandardSensorTenShouldWork",
+    "Message": "",
+    "Points": [
+      "11-4.1"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise004Test.ProgramTest.StandardSensorRandomShouldWork",
+    "Message": "",
+    "Points": [
+      "11-4.1"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise004Test.ProgramTest.TemperatureSensorAllMethodsShouldWork",
+    "Message": "",
+    "Points": [
+      "11-4.2"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "Exercise004Test.ProgramTest.TemperatureSensorReadShouldWork",
+    "Message": "",
+    "Points": [
+      "11-4.2"
+    ],
+    "ErrorStackTrace": []
+  }
+]

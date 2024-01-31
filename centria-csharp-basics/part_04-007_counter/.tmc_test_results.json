@@ -1,0 +1,29 @@
+[
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestDecreasingCounterSection1",
+    "Message": "",
+    "Points": [
+      "4-7.1"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestDecreasingCounterSection3",
+    "Message": "",
+    "Points": [
+      "4-7.3"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestDecreasingCounterSection2",
+    "Message": "",
+    "Points": [
+      "4-7.2"
+    ],
+    "ErrorStackTrace": []
+  }
+]

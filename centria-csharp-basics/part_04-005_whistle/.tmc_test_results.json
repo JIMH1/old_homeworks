@@ -1,0 +1,29 @@
+[
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestWhistleCreation",
+    "Message": "",
+    "Points": [
+      "4-5"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestWhistleSound",
+    "Message": "",
+    "Points": [
+      "4-5"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestWhistleAttributes",
+    "Message": "",
+    "Points": [
+      "4-5"
+    ],
+    "ErrorStackTrace": []
+  }
+]

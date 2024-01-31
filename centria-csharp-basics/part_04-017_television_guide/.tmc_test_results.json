@@ -1,0 +1,38 @@
+[
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestAddingToListWorksSingleExactlyAsLong",
+    "Message": "",
+    "Points": [
+      "4-17"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestMainContainsThreeReadLines",
+    "Message": "",
+    "Points": [
+      "4-17"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestAddingToListWorks",
+    "Message": "",
+    "Points": [
+      "4-17"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestAddingToListWorksSingleTooShort",
+    "Message": "",
+    "Points": [
+      "4-17"
+    ],
+    "ErrorStackTrace": []
+  }
+]

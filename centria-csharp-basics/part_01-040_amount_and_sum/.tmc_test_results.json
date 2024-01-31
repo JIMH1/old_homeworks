@@ -1,0 +1,18 @@
+[
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestMultipleNumbers",
+    "Message": "",
+    "Points": [
+      "1-40"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestOnlyZero",
+    "Message": "",
+    "Points": [],
+    "ErrorStackTrace": []
+  }
+]

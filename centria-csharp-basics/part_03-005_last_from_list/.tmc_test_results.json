@@ -1,0 +1,37 @@
+[
+  {
+    "Passed": false,
+    "Name": "ProgramTests.ProgramTest.TestWhenMany",
+    "Message": "Assert.Equal() Failure\r\n          \u2193 (pos 0)\r\nExpected: I am last\\n\r\nActual:   word\\nhot potato\\nmoneyshot\\nfalse\\ncount all\u00B7\u00B7\u00B7\r\n          \u2191 (pos 0)",
+    "Points": [
+      "3-5"
+    ],
+    "ErrorStackTrace": [
+      "   at Xunit.Assert.Equal(String expected, String actual, Boolean ignoreCase, Boolean ignoreLineEndingDifferences, Boolean ignoreWhiteSpaceDifferences) in C:\\Dev\\xunit\\xunit\\src\\xunit.assert\\Asserts\\StringAsserts.cs:line 244",
+      "   at Xunit.Assert.Equal(String expected, String actual) in C:\\Dev\\xunit\\xunit\\src\\xunit.assert\\Asserts\\StringAsserts.cs:line 174",
+      "   at ProgramTests.ProgramTest.TestWhenMany() in c:\\Users\\arman\\AppData\\Local\\tmc\\vscode\\centria-csharp-basics\\part_03-005_last_from_list\\test\\Exercise005Test\\ProgramTest.cs:line 63"
+    ]
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestWhenOne",
+    "Message": "",
+    "Points": [
+      "3-5"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": false,
+    "Name": "ProgramTests.ProgramTest.TestWhenFour",
+    "Message": "Assert.Equal() Failure\r\n          \u2193 (pos 0)\r\nExpected: false\\n\r\nActual:   word\\nhot potato\\ntruest\\nfalse\\n\r\n          \u2191 (pos 0)",
+    "Points": [
+      "3-5"
+    ],
+    "ErrorStackTrace": [
+      "   at Xunit.Assert.Equal(String expected, String actual, Boolean ignoreCase, Boolean ignoreLineEndingDifferences, Boolean ignoreWhiteSpaceDifferences) in C:\\Dev\\xunit\\xunit\\src\\xunit.assert\\Asserts\\StringAsserts.cs:line 244",
+      "   at Xunit.Assert.Equal(String expected, String actual) in C:\\Dev\\xunit\\xunit\\src\\xunit.assert\\Asserts\\StringAsserts.cs:line 174",
+      "   at ProgramTests.ProgramTest.TestWhenFour() in c:\\Users\\arman\\AppData\\Local\\tmc\\vscode\\centria-csharp-basics\\part_03-005_last_from_list\\test\\Exercise005Test\\ProgramTest.cs:line 33"
+    ]
+  }
+]

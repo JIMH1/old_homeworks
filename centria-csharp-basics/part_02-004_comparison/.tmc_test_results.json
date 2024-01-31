@@ -1,0 +1,25 @@
+[
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestLessThan",
+    "Message": "",
+    "Points": [
+      "2-4"
+    ],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestGreaterThan",
+    "Message": "",
+    "Points": [],
+    "ErrorStackTrace": []
+  },
+  {
+    "Passed": true,
+    "Name": "ProgramTests.ProgramTest.TestEqualTo",
+    "Message": "",
+    "Points": [],
+    "ErrorStackTrace": []
+  }
+]
